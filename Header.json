@@ -1,0 +1,15 @@
+{
+  "status":"ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "headerInfor": [
+      {"text":"헤더영역"},
+      {"text":"슬라이드영역"},
+      {"text":"이미지영역"},
+      {"text":"컨텐츠영역"},
+      {"text":"푸터영역"}
+    ]
+  }
+}
